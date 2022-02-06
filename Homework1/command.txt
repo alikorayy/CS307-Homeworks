@@ -1,0 +1,1 @@
+man ping | grep -A 4 -- "-c"
